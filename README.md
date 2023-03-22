@@ -6,9 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![alt text](./movier.gif)
 
-<video   controls>
-  <source src="./movierM.mp4" type="video/mp4">
-</video>
+![alt text](./movierM.gif)
 
 
 
