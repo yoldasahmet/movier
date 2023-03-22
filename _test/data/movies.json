@@ -1,0 +1,55 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+      "genre_ids": [16, 12, 35, 10751],
+      "id": 315162,
+      "original_language": "en",
+      "original_title": "Puss in Boots: The Last Wish",
+      "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+      "popularity": 2712.044,
+      "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "release_date": "2022-12-07",
+      "title": "Puss in Boots: The Last Wish",
+      "video": false,
+      "vote_average": 8.4,
+      "vote_count": 4715
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Eewgp7o5AU1xCataDmiIL2nYxd.jpg",
+      "genre_ids": [18, 36],
+      "id": 943822,
+      "original_language": "en",
+      "original_title": "Prizefighter: The Life of Jem Belcher",
+      "overview": "At the turn of the 19th century, Pugilism was the sport of kings and a gifted young boxer fought his way to becoming champion of England.",
+      "popularity": 2682.314,
+      "poster_path": "/x3PIk93PTbxT88ohfeb26L1VpZw.jpg",
+      "release_date": "2022-06-30",
+      "title": "Prizefighter: The Life of Jem Belcher",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 57
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/32GH8Mi4GmTPIQyd6IW1FFrHWrj.jpg",
+      "genre_ids": [28],
+      "id": 965839,
+      "original_language": "en",
+      "original_title": "Lord of the Streets",
+      "overview": "When Jason Dyson refuses to make his prized fighter throw an MMA match, a notorious gangster collects his debt by killing the fighter and kidnapping Jason's daughter. Now he must train a prisoner to endure five consecutive underground fights to save her.",
+      "popularity": 949.326,
+      "poster_path": "/mbigXpUgVgLOacgxlyFfsLRFqxQ.jpg",
+      "release_date": "2022-04-22",
+      "title": "Lord of the Streets",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 46
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}

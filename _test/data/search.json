@@ -1,0 +1,55 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/3ylHCfvXC4gyKBcKZXAYRYjhG4X.jpg",
+      "genre_ids": [27],
+      "id": 787173,
+      "original_language": "en",
+      "original_title": "Were",
+      "overview": "Were is a dark, tense and atmospheric horror short, about three girls camping in the woods who are approached by a sinister stranger. With a killer ending.",
+      "popularity": 0.6,
+      "poster_path": "/ycwfsRdokQrXcLGlFwD35nYwzQe.jpg",
+      "release_date": "2017-04-27",
+      "title": "Were",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9mprVUhXPjdpSaiSon44uG9Dnv2.jpg",
+      "genre_ids": [35, 28],
+      "id": 838197,
+      "original_language": "it",
+      "original_title": "...Altrimenti ci arrabbiamo!",
+      "overview": "Estranged, quarreling brothers Carezza and Sorriso have to put aside their differences to reclaim their father's beloved dune buggy from predatory real estate developer Torsillo, with the help of beautiful circus performer Miriam, whose family business is threatened by Torsillo's enforcers.",
+      "popularity": 94.84,
+      "poster_path": "/ohiRHcLgqtpg82Keglufvlp8xuu.jpg",
+      "release_date": "2022-03-23",
+      "title": "...Watch Out, We're Mad",
+      "video": false,
+      "vote_average": 6.227,
+      "vote_count": 154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qFeuSLq1InfpK9PgjFHmdY3UZNq.jpg",
+      "genre_ids": [16, 35, 10751, 9648, 10770],
+      "id": 37211,
+      "original_language": "en",
+      "original_title": "Scooby-Doo! and the Reluctant Werewolf",
+      "overview": "Shaggy is turned into a werewolf, and it's up to Scooby, Scrappy and Shaggy's girlfriend to help him win a race against other monsters, and become human again.",
+      "popularity": 29.223,
+      "poster_path": "/cXUQuHnNBxFSZAmYfogMfrcvMk7.jpg",
+      "release_date": "1988-11-13",
+      "title": "Scooby-Doo! and the Reluctant Werewolf",
+      "video": false,
+      "vote_average": 7.384,
+      "vote_count": 275
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 3
+}
