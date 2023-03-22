@@ -12,13 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <source src="./movierM.mov" type="video/mp4">
 </video>
 
-<video   controls>
-  <source src="/movierM.mov" type="video/mp4">
-</video>
-
-<video   controls>
-  <source src="movierM.mov" type="video/mp4">
-</video>
+![alt text](./movier.gif)
 
 ## Available Scripts
 
